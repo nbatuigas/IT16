@@ -1,0 +1,13 @@
+E:\Visual Studio 2022\IT16_Ciphering\IT16_Ciphering\bin\Debug\IT16_Ciphering.exe.config
+E:\Visual Studio 2022\IT16_Ciphering\IT16_Ciphering\bin\Debug\IT16_Ciphering.exe
+E:\Visual Studio 2022\IT16_Ciphering\IT16_Ciphering\bin\Debug\IT16_Ciphering.pdb
+E:\Visual Studio 2022\IT16_Ciphering\IT16_Ciphering\bin\Debug\IT16_Ciphering.xml
+E:\Visual Studio 2022\IT16_Ciphering\IT16_Ciphering\obj\Debug\IT16_Ciphering.vbproj.AssemblyReference.cache
+E:\Visual Studio 2022\IT16_Ciphering\IT16_Ciphering\obj\Debug\IT16_Ciphering.vbproj.SuggestedBindingRedirects.cache
+E:\Visual Studio 2022\IT16_Ciphering\IT16_Ciphering\obj\Debug\IT16_Ciphering.Form1.resources
+E:\Visual Studio 2022\IT16_Ciphering\IT16_Ciphering\obj\Debug\IT16_Ciphering.Resources.resources
+E:\Visual Studio 2022\IT16_Ciphering\IT16_Ciphering\obj\Debug\IT16_Ciphering.vbproj.GenerateResource.cache
+E:\Visual Studio 2022\IT16_Ciphering\IT16_Ciphering\obj\Debug\IT16_Ciphering.vbproj.CoreCompileInputs.cache
+E:\Visual Studio 2022\IT16_Ciphering\IT16_Ciphering\obj\Debug\IT16_Ciphering.exe
+E:\Visual Studio 2022\IT16_Ciphering\IT16_Ciphering\obj\Debug\IT16_Ciphering.xml
+E:\Visual Studio 2022\IT16_Ciphering\IT16_Ciphering\obj\Debug\IT16_Ciphering.pdb
